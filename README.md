@@ -93,17 +93,16 @@ cd stock-price-prediction-app
 ---
 ## 📊 Technology Stack
 
-- ![Python](https://www.python.org/community/logos/python-logo-master-v3-TM.png) **Backend**: Python
-- ![Machine Learning](https://miro.medium.com/v2/resize:fit:1200/format:webp/1*UbGf1Tx8qqt05ToY2ZP77A.png) **Machine Learning**: ML
-- ![Streamlit](https://streamlit.io/images/brand/streamlit-mark-colored.svg) **Frontend**: Streamlit
-- ![yfinance](https://raw.githubusercontent.com/ranaroussi/yfinance/main/yfinance/images/yf_logo.png) **Data Source**: yfinance
-- ![Prophet](https://facebook.github.io/prophet/docs/images/prophet_logo.png) **Forecasting Model**: Prophet
-- ![Plotly](https://raw.githubusercontent.com/plotly/brand/master/Plotly_Logo_White.png) **Visualization**: Plotly
+- **Backend**: Python
+- **Machine Learning**: ML
+- **Frontend**: Streamlit
+- **Data Source**: yfinance
+- **Forecasting Model**: Prophet
+- **Visualization**: Plotly
 
 ---
 ## 👤 Author
-
 **Abhishek KK**  
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/abhishek-kk-0131-20-07-/) [![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)](https://github.com/kk-abhishek) [![Gmail](https://upload.wikimedia.org/wikipedia/commons/4/4b/Gmail_Icon_%282020%29.png)](kkabhishek100@gmail.com)
+
 
 
