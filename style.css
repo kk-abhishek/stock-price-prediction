@@ -1,0 +1,22 @@
+/* Sidebar styling */
+[data-testid="stSidebar"] {
+  background-color: #c8c3cc; /* Change background color */
+  /*border-top-left-radius: 20px; /* Curve top left corner */
+  border-top-right-radius: 50px; /* Curve top right corner */
+  /*border-bottom-left-radius: 20px; /* Curve bottom left corner */
+  border-bottom-right-radius: 50px; /* Curve bottom right corner */
+}
+
+/* Custom styling for headers */
+h1, h2, h3 {
+  color: #b58fd4;
+  font-family: Arial, sans-serif;
+}
+
+/* Additional table and graph styling */
+.stDataFrame {
+  background-color: #000000; /* Background for dataframes */
+  border-radius: 10px;/* Rounded corners for dataframes */
+}
+
+
