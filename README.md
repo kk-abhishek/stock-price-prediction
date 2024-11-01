@@ -3,10 +3,19 @@
 
 **Stock Price Prediction App** is an interactive Streamlit application that predicts stock prices based on historical data using the **yfinance** and **Prophet** libraries. With a simple, user-friendly interface, this app lets you explore stock data, view historical prices, and generate future predictions for both Indian and international companies.
 
-### 🌐 Access the App Online
+---
 
-Access the live application here: [![Streamlit](https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/images/brand/logo.png)](https://your-username-streamlit-stock-prediction-app.streamlit.app)  
-*(Replace with your actual deployment link)*
+## 📹 APP Demo
+Check out the demo of the app to see its features in action:
+    [![Demo Video](https://raw.githubusercontent.com/kk-abhishek/stock-price-prediction-app/main/images/demo_thumbnail.png)](https://www.loom.com/share/28ce91ac5291450397fa5c773d078b2b?sid=08206dc2-8869-4986-827c-296adf1c51a0)
+
+---
+
+## 🌐 Access the App Online
+
+Access the live application here:
+[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://stock-savvy-by-kk.streamlit.app/)
+
 
 
 ---
@@ -42,7 +51,6 @@ Access the live application here: [![Streamlit](https://raw.githubusercontent.co
 
 - **Clone the Repository:**
     Open your terminal and run: git clone **https://github.com/your-username/stock-price-prediction-app.git**
-cd stock-price-prediction-app
 
 - **Create a Virtual Environment:** (Optional but Recommended)
     To avoid conflicts with other Python packages, set up a virtual environment: 
@@ -93,16 +101,45 @@ cd stock-price-prediction-app
 ---
 ## 📊 Technology Stack
 
-- **Backend**: Python
-- **Machine Learning**: ML
+- **Backend**: Python,ML 
 - **Frontend**: Streamlit
 - **Data Source**: yfinance
-- **Forecasting Model**: Prophet
-- **Visualization**: Plotly
+- **Forecasting Model**: Prophet by facebook
+- **Visualization**: Plotly & Pandas.
+
+<p align="left">
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
+  </a>
+  <a href="https://facebook.github.io/prophet/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Prophet"/>
+  </a>
+  <a href="https://plotly.com/">
+    <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+  </a>
+  <a href="https://pandas.pydata.org/">
+    <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  </a>
+  <a href="https://streamlit.io/">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  </a>
+</p>
 
 ---
 ## 👤 Author
 **Abhishek KK**  
+
+<div>
+  <a href="https://www.linkedin.com/in/abhishek-kk-0131-20-07-/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/kk-abhishek">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="kkabhishek100@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
 
 
 
