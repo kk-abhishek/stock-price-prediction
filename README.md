@@ -6,14 +6,18 @@
 ---
 
 ## 📹 APP Demo
-Check out the demo of the app to see its features in action:
-    [![Demo Video](https://raw.githubusercontent.com/kk-abhishek/stock-price-prediction-app/main/images/demo_thumbnail.png)](https://www.loom.com/share/28ce91ac5291450397fa5c773d078b2b?sid=08206dc2-8869-4986-827c-296adf1c51a0)
+
+Check out the demo of the app to see its features in action :
+    
+[![Loom Video](https://img.shields.io/badge/Loom-0078D4?style=for-the-badge&logo=loom&logoColor=white)](https://www.loom.com/share/28ce91ac5291450397fa5c773d078b2b?sid=9bb4c34a-41cd-4443-aafb-d9c8b58c6482)
+
 
 ---
 
 ## 🌐 Access the App Online
 
-Access the live application here:
+Access the live application here :
+
 [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://stock-savvy-by-kk.streamlit.app/)
 
 
